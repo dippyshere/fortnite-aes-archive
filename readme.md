@@ -1,7 +1,8 @@
 # AES Archive
 This is an attempt to archive AES keys for Fortnite.
 
-If you find a non-documented AES key, feel free to open up a pull request!
+Except this attempt won't become stale!
+If you find an undocumented AES key, feel free to open a pull request and I will actually accept it.
 
 ## Table Of Contents
 - [Main AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/main.md)
