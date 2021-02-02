@@ -7,7 +7,7 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 Latest Key: 
 | Version           | Key                                                                   |                        
 | ----------------- | --------------------------------------------------------------------- | 
-| 15.20             | 0x36983D73A17CAF253F9D1A322A79D6DC53D8E81B661B7564343F41D4835275D5    |
+| 15.30             | 0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0    |
 
 ## Season 2
 | Version           | Key                                                                   |
@@ -127,3 +127,4 @@ Latest Key:
 | 15.10             | 0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE    |
 | 15.20             | 0x36983D73A17CAF253F9D1A322A79D6DC53D8E81B661B7564343F41D4835275D5    |
 | 15.21             | 0xC29127AF7A083D2881978B13DB29B9C2407E06E3186B16DFE55ADBF93E8C3252    |
+| 15.30             | 0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0    |
