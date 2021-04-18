@@ -34,7 +34,7 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 ## Season 6
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
-| 6.00              | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B    |
+| 6.00 - 6.02       | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B    |
 | 6.10              | 0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583    |
 | 6.20              | 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A    |
 | 6.30              | 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491    |
@@ -99,7 +99,8 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 | 12.30             | 0x1AE302653ACB82998A45DBC2122EAAF86CEFF7F8E1D63B8F0D96562843BC28E9    |
 | 12.41             | 0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F    |
 | 12.50             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
-| 12.60             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
+| 12.60             | 0x2dace7f864025613951b2f2267128f0f5f30a1d31692c67178439ad109cec935    |
+| 12.61             | 0x3f3717f4f206ff21bda8d3bf62b323556d1d2e7d9b0f7abd572d3cfe5b569fac    |
 
 ## Season 13
 | Version           | Key                                                                   |
