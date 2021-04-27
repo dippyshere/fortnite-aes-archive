@@ -9,7 +9,7 @@ As long as I remember Fortnite exists, I will add the latest AES key to here as 
 ### Latest Version/Key
 | Version | Key |
 |---------|-----|
-| 16.20   | 0x1522C5C59FD8B9964F10B23DD55BB0255F51D8ABEF1CE7B6BBBBE3239AE18929 |
+| 16.30   | 0xF941D9809A67D9BD104273E3C649F4395B6B6A874D16515F404B50D6A9FFA5A4 |
 
 ## Table Of Contents
 - [Main AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/main.md)
