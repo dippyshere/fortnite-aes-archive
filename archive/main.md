@@ -7,7 +7,7 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 ### Latest Key: 
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
-| 18.30             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
+| 18.40             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
 
 ## Season 2
 | Version           | Key                                                                   |
@@ -161,3 +161,4 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 | 18.20             | 0x8F851E9080283BB16D9421F6DE7B0E8E983481C35E5FC8AFADB02BA4CB9B59B9    |
 | 18.21             | 0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406    |
 | 18.30             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
+| 18.40             | 0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24    |
