@@ -162,3 +162,8 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 | 18.21             | 0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406    |
 | 18.30             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
 | 18.40             | 0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24    |
+
+## Season 19 (chapter 3)
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 19.00             | 0xB4D86E3D7D797A85FD4D585BBB0BE37530EE9966174D254AAE2C55317B40CFFA    |
