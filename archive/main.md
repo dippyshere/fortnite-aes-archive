@@ -167,3 +167,4 @@ The rest were grabbed from BenBot lol. at least with getting main keys from benb
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 19.00             | 0xB4D86E3D7D797A85FD4D585BBB0BE37530EE9966174D254AAE2C55317B40CFFA    |
+| 19.01             | 0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63    
