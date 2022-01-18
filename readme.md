@@ -4,7 +4,7 @@ A repository that contains almost *every* main PAK AES Key for Fortitude Offence
 ### Latest Version/Key
 | Version | Key |
 |---------|-----|
-| 19.01   | 0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.10   | 0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 If you find an undocumented AES key, feel free to open a pull request and I will actually accept it.
 
@@ -15,7 +15,7 @@ Dynamic keys are kinda dead as i think other repos do a great job documenting th
 - [Dynamic AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/dynamic)
 
 ## Credits
-- Blenux
+- Blenux for their [Pastebin](https://pastebin.com/raw/SCWdTWbj)
 - FunGames BenBot
 - 0x41414141
 - Bizzfarts
@@ -25,4 +25,3 @@ Dynamic keys are kinda dead as i think other repos do a great job documenting th
 - Lucas7Yoshi
 - VastBlast
 - GhostScissors
-- [Pastebin](https://pastebin.com/raw/SCWdTWbj)
