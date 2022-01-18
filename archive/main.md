@@ -1,13 +1,13 @@
 # Main Keys
 AES keys that unlock the main files.
 
-Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Bizzfarts & 0x41414141.
-The rest were grabbed from BenBot lol. at least with getting main keys from benbot its easy to tell what version its for, getting dynamic keys you have to backtrack to when the main key was released. anyway have fun!
+Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
+The rest were grabbed from BenBot.
 
 ### Latest Key: 
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
-| 18.40             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
+| 19.10             | 0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA    |
 
 ## Season 2
 | Version           | Key                                                                   |
