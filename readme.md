@@ -4,7 +4,7 @@ A repository that contains almost *every* main PAK AES Key for Fortitude Offence
 ### Latest Version/Key
 | Version | Key |
 |---------|-----|
-| 19.10   | 0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.30   | 0x6DAA4CCE14CB94598DA8B0C07F1386867DC73FA644B92900ADCEF89F26D159DC |
 
 If you find an undocumented AES key, feel free to open a pull request and I will actually accept it.
 
