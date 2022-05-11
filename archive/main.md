@@ -18,6 +18,7 @@ The rest were grabbed from BenBot.
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 3.30              | 0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3    |
+| 3.50              | 0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B    |
 
 ## Season 4
 | Version           | Key                                                                   |
