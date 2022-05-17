@@ -7,7 +7,7 @@ The rest were grabbed from BenBot.
 ### Latest Key: 
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
-| 20.30             | 0xCBCDE85780667A8BA7B9FB9D4CFE9B6817215420AEA36EB0DD4CFD2EE9513359    |
+| 20.40             | 0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430    |
 
 ## Cert
 | Version           | Key                                                                   |
@@ -17,7 +17,7 @@ The rest were grabbed from BenBot.
 ## Season 1
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
-| 1.xx              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L  |
+| 1.xx              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L    |
 
 ## Season 2
 | Version           | Key                                                                   |
@@ -196,3 +196,4 @@ The rest were grabbed from BenBot.
 | 20.10             | 0x59BD2F0BB25EDFACD988FE48289D32E31CF22F8F5344C5F7769089ED7355473C    |
 | 20.20             | 0xF98794E5EB4AD58D6CB0E93D534C06250C0814A50691D62CA1ABAFB2E7BD718F    |
 | 20.30             | 0xCBCDE85780667A8BA7B9FB9D4CFE9B6817215420AEA36EB0DD4CFD2EE9513359    |
+| 20.40             | 0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430    |
