@@ -197,3 +197,9 @@ The rest were grabbed from BenBot.
 | 20.20             | 0xF98794E5EB4AD58D6CB0E93D534C06250C0814A50691D62CA1ABAFB2E7BD718F    |
 | 20.30             | 0xCBCDE85780667A8BA7B9FB9D4CFE9B6817215420AEA36EB0DD4CFD2EE9513359    |
 | 20.40             | 0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430    |
+
+
+## Season 21 (chapter 3 season 3)
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 21.00             | 0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699    |
