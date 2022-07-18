@@ -1,0 +1,2 @@
+Since the last AES key published here (for FN version 21.10), there have been 2 new updates, FN versions 21.20 and 21.30. Yet no new AES keys.
+Did somebody turn off Ben Bot (the one bot responsible for gathering FN AES keys, which all other 3rd party FN projects like this archive, and the FModel software, depend on)?
