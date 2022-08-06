@@ -2,29 +2,25 @@
 AES keys that unlock the main files.
 
 Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
-The rest were grabbed from BenBot.
+The rest were grabbed from BenBot
 
-### Latest Key: 
-| Version           | Key                                                                   |
-| ----------------- | --------------------------------------------------------------------- |
-| 21.20             | 0x840A3C61B7BA7FDC58EAB092AC9F29D23229DA63C417F2F0ADD69F30F1B6980D    |
 
 ## Cert
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | Cert              | 0x79323938716A53623131354E71513341676164333044576E3251597254493843    |
 
-## Season 1
+## Chapter 1 Season 1
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 1.xx              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L    |
 
-## Season 2
+## Chapter 1 Season 2
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 2.4.2             | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4    |
 
-## Season 3
+## Chapter 1 Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 3.20              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4    |
@@ -33,7 +29,7 @@ The rest were grabbed from BenBot.
 | 3.50              | 0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B    |
 | 3.60              | 0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5    |
 
-## Season 4
+## Chapter 1 Season 4
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 4.00              | 0xBB3FE1D6E9296C2C0DBC880D07C7BFD6B4A6D8277D486446353B079B790CC434    |
@@ -42,12 +38,12 @@ The rest were grabbed from BenBot.
 | 4.40              | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A    |
 | 4.50              | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A    |
 
-## Season 5
+## Chapter 1 Season 5
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 5.00 - 5.10       | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A    |
 
-## Season 6
+## Chapter 1 Season 6
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 6.00 - 6.02       | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B    |
@@ -57,7 +53,7 @@ The rest were grabbed from BenBot.
 | 6.31              | 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC    |
 
 
-## Season 7
+## Chapter 1 Season 7
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 7.10              | 0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714    |
@@ -65,7 +61,7 @@ The rest were grabbed from BenBot.
 | 7.30              | 0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4    |
 | 7.40              | 0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F    |
 
-## Season 8
+## Chapter 1 Season 8
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 8.00              | 0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B    |
@@ -74,7 +70,7 @@ The rest were grabbed from BenBot.
 | 8.30              | 0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE    |
 | 8.40              | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC    |
 
-## Season 9
+## Chapter 1 Season 9
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 9.00              | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE    |
@@ -83,7 +79,7 @@ The rest were grabbed from BenBot.
 | 9.30              | 0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC    |
 | 9.40              | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE    |
 
-## Season X
+## Chapter 1 Season X
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 10.00             | 0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A    |
@@ -93,7 +89,7 @@ The rest were grabbed from BenBot.
 | 10.31             | 0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120    |
 | 10.40             | 0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E    |
 
-## Season 11
+## Chapter 2 Season 1
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 11.00             | 0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE    |
@@ -107,7 +103,7 @@ The rest were grabbed from BenBot.
 | 11.40             | 0x40AA2ED6FC28C429CA9E7795BDC6BC2A31E1B747571D4AE4B598943690CBA264    |
 | 11.50             | 0x1C2E5564676BB4B7B865C13EFF75E36BB566B3D36E5140786C9E602C33823C3F    |
 
-## Season 12
+## Chapter 2 Season 2
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 12.10             | 0x7B155D8AA29AA7D1D4FB859521408C987C5B5D5F8A2641EE16F9BA256DF64FC8    |
@@ -118,7 +114,7 @@ The rest were grabbed from BenBot.
 | 12.60             | 0x2dace7f864025613951b2f2267128f0f5f30a1d31692c67178439ad109cec935    |
 | 12.61             | 0x3f3717f4f206ff21bda8d3bf62b323556d1d2e7d9b0f7abd572d3cfe5b569fac    |
 
-## Season 13
+## Chapter 2 Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 13.00             | 0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13    |
@@ -126,7 +122,7 @@ The rest were grabbed from BenBot.
 | 13.30             | 0x642CA35C21741BB86FEB40CE220693B60B04EEA685285E0A2D553D4631FD2AEC    |
 | 13.40             | 0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D    |
 
-## Season 14
+## Chapter 2 Season 4
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 14.00             | 0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763    |
@@ -137,7 +133,7 @@ The rest were grabbed from BenBot.
 | 14.50             | 0xD1261C98A200B3413BE96D8A2DE608EE23D3189B7588F6D9851B9E7E14C3B6CF    |
 | 14.60             | 0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09    |
 
-## Season 15
+## Chapter 2 Season 5
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 15.00             | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2    |
@@ -148,7 +144,7 @@ The rest were grabbed from BenBot.
 | 15.40             | 0x67BA1ACFB49BE607B053FF06173B7595912C91AEDB9C59418713823FE335FBA4    |
 | 15.50             | 0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A    |
 
-## Season 16
+## Chapter 2 Season 6
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 16.00             | 0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A    |
@@ -158,7 +154,7 @@ The rest were grabbed from BenBot.
 | 16.40		      		| 0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142    |
 | 16.50				      | 0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E    |
 
-## Season 17
+## Chapter 2 Season 7
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 17.00             | 0x840A3C61B7BA7FDC58EAB092AC9F29D23229DA63C417F2F0ADD69F30F1B6980D    |
@@ -169,7 +165,7 @@ The rest were grabbed from BenBot.
 | 17.40             | 0xAEEDAAEFB7C3FE1BD8EBCBC60802D494FAE4687B32A1E1D2E58D719372187381    |
 | 17.50             | 0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A    |
 
-## Season 18
+## Chapter 2 Season 8
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 18.00             | 0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023    |
@@ -179,7 +175,7 @@ The rest were grabbed from BenBot.
 | 18.30             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
 | 18.40             | 0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24    |
 
-## Season 19 (chapter 3)
+## Chapter 3 Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 19.00             | 0xB4D86E3D7D797A85FD4D585BBB0BE37530EE9966174D254AAE2C55317B40CFFA    |
@@ -189,7 +185,7 @@ The rest were grabbed from BenBot.
 | 19.30             | 0x6DAA4CCE14CB94598DA8B0C07F1386867DC73FA644B92900ADCEF89F26D159DC    |
 | 19.40             | 0xB30A5DBC657A27FBC9E915AFBFBB13F97A3164034F32B1899DEA714CD979E8C3    |
 
-## Season 20 (chapter 3 season 2)
+## Chapter 3 Season 2
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 20.00             | 0x53839BA2A77AE393588184ACBD18EDBC935CA60D554F9D29BC3F135E426C4A6F    |
@@ -199,7 +195,7 @@ The rest were grabbed from BenBot.
 | 20.40             | 0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430    |
 
 
-## Season 21 (chapter 3 season 3)
+## Chapter 3 Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 21.00             | 0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699    |
