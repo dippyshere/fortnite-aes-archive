@@ -69,7 +69,7 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 | 8.30              | 0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE    |
 | 8.40              | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC    |
 
-## Chapter 1 Season 9
+## Chapter 1 Season 9 
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
 | 9.00              | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE    |
@@ -77,6 +77,7 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 | 9.20              | 0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA    |
 | 9.30              | 0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC    |
 | 9.40              | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE    |
+| 9.41              | 0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A    |
 
 ## Chapter 1 Season X
 | Version           | Key                                                                   |
