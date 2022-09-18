@@ -2,9 +2,9 @@
 A repository that contains almost *every* main PAK AES Key for Fortitude Offence Resistance Tech (FORTnite)
 
 ### Latest Available Version/Key
-| Version | Key |
-|---------|-----|
-| 21.51   | 0xDD1E8B25464C492F0CCECB6740CC0B5C70DF3660D2FBDBD9A23C994256872EB9 |
+| Version |                                Key                                 |
+|:-------:|:------------------------------------------------------------------:|
+|  22.00  | 0x235F62E68E0205802D946747BCBF56EF28406B310936A31481D9DA94F28C4F76 |
 
 If you find an undocumented AES key, feel free to open a pull request and I will accept it.
 
