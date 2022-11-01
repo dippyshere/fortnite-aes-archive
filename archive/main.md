@@ -3,7 +3,7 @@ AES keys that unlock the main files.
 
 Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141. The rest were grabbed from BenBot. After 21.20, the keys are now grabbed from https://fortnitecentral.gmatrixgames.ga/api/v1/aes.
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/edit/master/archive/main.md#chapter-3-season-4)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/main.md#chapter-3-season-4)
 
 
 ## Cert
