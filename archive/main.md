@@ -177,7 +177,7 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 |  18.30  | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555 |
 |  18.40  | 0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
-## Chapter 3 Season 3
+## Chapter 3 Season 1
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  19.00  | 0xB4D86E3D7D797A85FD4D585BBB0BE37530EE9966174D254AAE2C55317B40CFFA |
@@ -216,3 +216,8 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 |  22.20  | 0x7B0F5676AF1AE170FAA59F74C20CA0D7EA0DAADECDAB82BEC4FC29D7DB7FE649 |
 |  22.30  | 0xA1CDA4AD9A8A3B32AB87DD3501B3D906DA57C91FA599FFF5F15A35F3416DCF3C |
 |  22.40  | 0xB11869C5F61DD3C04431C80AD97D92CD05963B39875E0EE488C247D54722F73C |
+
+## Chapter 4 Season 1
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  23.00  | 0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
