@@ -1,7 +1,12 @@
 # Main Keys
 AES keys that unlock the main files.
 
-Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141. The rest were grabbed from BenBot. After 21.20, the keys are now grabbed from https://fortnitecentral.gmatrixgames.ga/api/v1/aes.
+- Cert - 13.20
+  - Grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
+- 13.30 - 21.20
+  - Grabbed from BenBot, thanks to FunGames.
+- 21.30 - Present
+  Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
 [Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/main.md#chapter-4-season-1)
 
@@ -34,15 +39,16 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 |   2.5   |                                                                    |
 
 ## Chapter 1 Season 3
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  3.00   |                                                                    |
-|  3.10   |                                                                    |
-|  3.20   | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
-|  3.30   | 0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3 |
-|  3.40   | 0x7129D5E578F0DC3821E3CD704F01E511F9A60340CF5B4C850F3B0B6B5E80D0B9 |
-|  3.50   | 0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B |
-|  3.60   | 0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5 |
+| Version  | Key                                                                    |
+|:--------:|------------------------------------------------------------------------|
+|   3.00   |                                                                        |
+|   3.10   |                                                                        |
+|   3.20   | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4     |
+|   3.30   | 0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3     |
+|   3.40   | 0x7129D5E578F0DC3821E3CD704F01E511F9A60340CF5B4C850F3B0B6B5E80D0B9     |
+| ~~3.30~~ | ~~0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3~~ |
+|   3.50   | 0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B     |
+|   3.60   | 0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5     |
 
 ## Chapter 1 Season 4
 | Version | Key                                                                |
@@ -255,6 +261,7 @@ Most of these up to 13.20 grabbed from [this pastebin](https://pastebin.com/raw/
 | [22.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/22.40.md) | 0xB11869C5F61DD3C04431C80AD97D92CD05963B39875E0EE488C247D54722F73C |
 
 ## Chapter 4 Season 1
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  23.00  | 0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [23.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/23.00.md) | 0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
+|                                              23.10                                               | 0xD293CF84F3966549119E47AC2A12E827D392A69CD85DD36DCA9BB3D2439E18D2 |
