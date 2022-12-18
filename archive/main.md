@@ -118,7 +118,7 @@ AES keys that unlock the main files.
 | [9.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.20.md) | 0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | [9.21](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.21.md) | 0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | [9.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.30.md) | 0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
-| [9.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.40.md) | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
+| [9.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.40.md) | 0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
 | [9.41](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.41.md) | 0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
 
 ## Chapter 1 Season X
