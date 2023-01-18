@@ -1,22 +1,24 @@
 # Main Keys
+
 AES keys that unlock the main files.
 
 - Cert - 13.20
-  - Grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
+    - Grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
 - 13.30 - 21.20
-  - Grabbed from BenBot, thanks to FunGames.
+    - Grabbed from BenBot, thanks to FunGames.
 - 21.30 - Present
   Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
 [Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/main.md#chapter-4-season-1)
 
-
 ## Cert
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |   1.2   | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
 
 ## Chapter 1 Season 1
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |   1.7   | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
@@ -26,6 +28,7 @@ AES keys that unlock the main files.
 |  1.10   | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
 
 ## Chapter 1 Season 2
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  1.11   |                                                                    |
@@ -39,6 +42,7 @@ AES keys that unlock the main files.
 |   2.5   |                                                                    |
 
 ## Chapter 1 Season 3
+
 | Version  | Key                                                                    |
 |:--------:|------------------------------------------------------------------------|
 |   3.00   |                                                                        |
@@ -51,6 +55,7 @@ AES keys that unlock the main files.
 |   3.60   | 0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5     |
 
 ## Chapter 1 Season 4
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  4.00   | 0xBB3FE1D6E9296C2C0DBC880D07C7BFD6B4A6D8277D486446353B079B790CC434 |
@@ -62,6 +67,7 @@ AES keys that unlock the main files.
 |  4.50   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 ## Chapter 1 Season 5
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  5.00   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
@@ -73,6 +79,7 @@ AES keys that unlock the main files.
 |  5.41   |                                                                    |
 
 ## Chapter 1 Season 6
+
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  6.00   | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
@@ -85,8 +92,8 @@ AES keys that unlock the main files.
 |  6.30   | 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
 |  6.31   | 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
 
-
 ## Chapter 1 Season 7
+
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 |                                              7.00                                              |                                                                    |
@@ -97,6 +104,7 @@ AES keys that unlock the main files.
 | [7.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/7.40.md) | 0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
 
 ## Chapter 1 Season 8
+
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [8.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.00.md) | 0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B |
@@ -109,7 +117,8 @@ AES keys that unlock the main files.
 | [8.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.50.md) |                                                                    |
 | [8.51](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.51.md) |                                                                    |
 
-## Chapter 1 Season 9 
+## Chapter 1 Season 9
+
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [9.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.00.md) | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
@@ -122,6 +131,7 @@ AES keys that unlock the main files.
 | [9.41](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.41.md) | 0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
 
 ## Chapter 1 Season X
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [10.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/10.00.md) | 0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
@@ -132,6 +142,7 @@ AES keys that unlock the main files.
 | [10.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/10.40.md) | 0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
 ## Chapter 2 Season 1
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 |                                              11.00                                               | 0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
@@ -146,6 +157,7 @@ AES keys that unlock the main files.
 | [11.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/11.50.md) | 0x1C2E5564676BB4B7B865C13EFF75E36BB566B3D36E5140786C9E602C33823C3F |
 
 ## Chapter 2 Season 2
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [12.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.00.md) | 0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
@@ -160,6 +172,7 @@ AES keys that unlock the main files.
 | [12.61](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.61.md) | 0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
 ## Chapter 2 Season 3
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [13.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/13.00.md) | 0x2BA4708C17ABF803AB821C0C89FA1CF3DFE7AA91D526D2E11526BC1AC4E34D13 |
@@ -168,6 +181,7 @@ AES keys that unlock the main files.
 | [13.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/13.40.md) | 0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D |
 
 ## Chapter 2 Season 4
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [14.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/14.00.md) | 0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763 |
@@ -179,6 +193,7 @@ AES keys that unlock the main files.
 | [14.60](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/14.60.md) | 0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09 |
 
 ## Chapter 2 Season 5
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [15.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/15.00.md) | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
@@ -190,6 +205,7 @@ AES keys that unlock the main files.
 | [15.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/15.50.md) | 0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
 
 ## Chapter 2 Season 6
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [16.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/16.00.md) | 0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
@@ -200,6 +216,7 @@ AES keys that unlock the main files.
 | [16.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/16.50.md) | 0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E |
 
 ## Chapter 2 Season 7
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [17.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/17.00.md) | 0x840A3C61B7BA7FDC58EAB092AC9F29D23229DA63C417F2F0ADD69F30F1B6980D |
@@ -211,6 +228,7 @@ AES keys that unlock the main files.
 | [17.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/17.50.md) | 0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
 
 ## Chapter 2 Season 8
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [18.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/18.00.md) | 0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023 |
@@ -221,6 +239,7 @@ AES keys that unlock the main files.
 | [18.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/18.40.md) | 0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
 ## Chapter 3 Season 1
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [19.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/19.00.md) | 0xB4D86E3D7D797A85FD4D585BBB0BE37530EE9966174D254AAE2C55317B40CFFA |
@@ -231,6 +250,7 @@ AES keys that unlock the main files.
 | [19.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/19.40.md) | 0xB30A5DBC657A27FBC9E915AFBFBB13F97A3164034F32B1899DEA714CD979E8C3 |
 
 ## Chapter 3 Season 2
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [20.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/20.00.md) | 0x53839BA2A77AE393588184ACBD18EDBC935CA60D554F9D29BC3F135E426C4A6F |
@@ -239,8 +259,8 @@ AES keys that unlock the main files.
 | [20.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/20.30.md) | 0xCBCDE85780667A8BA7B9FB9D4CFE9B6817215420AEA36EB0DD4CFD2EE9513359 |
 | [20.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/20.40.md) | 0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
 
-
 ## Chapter 3 Season 3
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [21.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/21.00.md) | 0x6615171DA4E596F5511B1A445ADDDCA27A31A67246C30B0743F5739E7670D699 |
@@ -252,6 +272,7 @@ AES keys that unlock the main files.
 | [21.51](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/21.51.md) | 0xDD1E8B25464C492F0CCECB6740CC0B5C70DF3660D2FBDBD9A23C994256872EB9 |
 
 ## Chapter 3 Season 4
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [22.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/22.00.md) | 0x235F62E68E0205802D946747BCBF56EF28406B310936A31481D9DA94F28C4F76 |
@@ -261,7 +282,9 @@ AES keys that unlock the main files.
 | [22.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/22.40.md) | 0xB11869C5F61DD3C04431C80AD97D92CD05963B39875E0EE488C247D54722F73C |
 
 ## Chapter 4 Season 1
+
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [23.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/23.00.md) | 0x8FC59C631B98802BA09DE361A6F37D882F047D19122B30C30673233129F79F1A |
-|                                              23.10                                               | 0xD293CF84F3966549119E47AC2A12E827D392A69CD85DD36DCA9BB3D2439E18D2 |
+| [23.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/23.10.md) | 0xD293CF84F3966549119E47AC2A12E827D392A69CD85DD36DCA9BB3D2439E18D2 |
+|                                              23.20                                               | 0x8D69B1A2D9A71F8BAB2A7168E688F21484D88D219A8CE896715435518FB72916 |
