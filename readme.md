@@ -18,7 +18,7 @@ Dynamic keys are added once the next game version is released.
 
 ## Table Of Contents
 
-- [Main AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/main.md)
+- [Main AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/readme.md)
 - [Dynamic AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/dynamic)
 
 ## Credits

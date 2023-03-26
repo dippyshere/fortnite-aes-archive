@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
   Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/main.md#chapter-4-season-2)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-2)
 
 ## Cert
 
