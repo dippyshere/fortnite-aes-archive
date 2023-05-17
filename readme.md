@@ -7,12 +7,12 @@ ___
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  24.30  | 0x9BC4ED189BCC283B21AB2929CDF87EACFE0187DA71AF700D61AB4D8D08AAB862 |
+|  24.40  | 0xD06E32A73009C0E7CBE5E26F9D94903237CB7115F2845CC1F81B19D37ABCA99A |
 
 ___
 
-If you find an undocumented / unknown AES key, feel free to open a pull request. If you have any questions, feel free to
-open an issue.
+If you find an undocumented / unknown AES key, PAK, or GUID: feel free to open a pull request. If you have any
+questions, feel free to open an issue.
 
 Dynamic keys are added once the next game version is released.
 
@@ -23,16 +23,20 @@ Dynamic keys are added once the next game version is released.
 
 ## Credits
 
-- Blenux [Pastebin](https://pastebin.com/raw/SCWdTWbj)
+- GMatrixGames [api](https://fortnitecentral.gmatrixgames.ga/api/v1/aes)
 - FunGames BenBot
+- Blenux [Pastebin](https://pastebin.com/raw/SCWdTWbj)
+- Kem0x
 - 0x41414141
 - Bizzfarts
 - JunctionNinja
-- Kem0x
 - Kian738
 - Lucas7Yoshi
 - VastBlast
 - GhostScissors
-- GMatrixGames [api](https://fortnitecentral.gmatrixgames.ga/api/v1/aes)
 - MisterLoki
 - 0ez
+- McMistrzYT
+- Beat-YT
+- mlodyskiny
+- NOTPIES
