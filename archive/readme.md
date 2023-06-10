@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
   Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-2)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-3)
 
 ## Cert
 
@@ -301,4 +301,11 @@ AES keys that unlock the main files.
 | [24.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.10.md) | 0xD00A25E571767332BBE517F21BE331C38FA5E09038098AF36082CE71050CBBE4 |
 | [24.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.20.md) | 0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 | [24.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.30.md) | 0x9BC4ED189BCC283B21AB2929CDF87EACFE0187DA71AF700D61AB4D8D08AAB862 |
-|                                              24.40                                               | 0xD06E32A73009C0E7CBE5E26F9D94903237CB7115F2845CC1F81B19D37ABCA99A |
+| [24.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.40.md) | 0xD06E32A73009C0E7CBE5E26F9D94903237CB7115F2845CC1F81B19D37ABCA99A |
+
+
+## Chapter 4 Season 3
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  25.00  | 0x94D247D35318564A3C74AB30B4E692EE5B9A09035326852ABBD9312215A3E310 |
