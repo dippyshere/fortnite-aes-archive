@@ -7,7 +7,7 @@ AES keys that unlock the main files.
 - 13.30 - 21.20
     - Grabbed from BenBot, thanks to FunGames.
 - 21.30 - Present
-  Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
+    - Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
 [Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-3)
 
@@ -311,4 +311,5 @@ AES keys that unlock the main files.
 | [25.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/25.00.md) | 0x94D247D35318564A3C74AB30B4E692EE5B9A09035326852ABBD9312215A3E310 |
 | [25.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/25.10.md) | 0xA14722B6EF4E9040597DAC8F8750638E89A0FF65DB36E49B76853EEF9621D497 |
 | [25.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/25.11.md) | 0xF271F4B1EA375C42D3676058BAE8FBA295CB61F773070A706A48EAD7C6F98CDB |
-|                                              25.20                                               | 0x509E207822450F59C2CB383871FE947090F8C9516BA1124793F58931DA715024 |
+| [25.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/25.20.md) | 0x509E207822450F59C2CB383871FE947090F8C9516BA1124793F58931DA715024 |
+|                                              25.30                                               | 0x198F5F1E8649B1B3B0E1F8E808DCFF240E838D2A7E24940D1082D843DCDF68F0 |
