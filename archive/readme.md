@@ -303,7 +303,6 @@ AES keys that unlock the main files.
 | [24.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.30.md) | 0x9BC4ED189BCC283B21AB2929CDF87EACFE0187DA71AF700D61AB4D8D08AAB862 |
 | [24.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/24.40.md) | 0xD06E32A73009C0E7CBE5E26F9D94903237CB7115F2845CC1F81B19D37ABCA99A |
 
-
 ## Chapter 4 Season 3
 
 |                                             Version                                              | Key                                                                |
