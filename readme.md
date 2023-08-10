@@ -1,13 +1,19 @@
 # Fortnite AES Archive
 
-A repository that contains almost *every* main PAK AES Key for Fortnite.
+A collection of AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### Latest Available Version/Key
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-3)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
 |  25.30  | 0x198F5F1E8649B1B3B0E1F8E808DCFF240E838D2A7E24940D1082D843DCDF68F0 |
+
+___
+
+### [Main Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/readme.md)
+
+### [Dynamic Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/dynamic)
 
 ___
 
@@ -16,27 +22,30 @@ questions, feel free to open an issue.
 
 Dynamic keys are added once the next game version is released.
 
-## Table Of Contents
-
-- [Main AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/readme.md)
-- [Dynamic AES Keys](https://github.com/dippyshere/fortnite-aes-archive/tree/master/archive/dynamic)
-
 ## Credits
 
-- GMatrixGames [api](https://fortnitecentral.gmatrixgames.ga/api/v1/aes)
-- FunGames BenBot
-- Blenux [Pastebin](https://pastebin.com/raw/SCWdTWbj)
-- Kem0x
+- [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes) 🫡
+- [FunGames](https://github.com/FabianFG) [BenBot](https://benbotfn.tk/api/v1/aes) 🫡
+- [Blenux](https://github.com/Blenux) [Pastebin](https://pastebin.com/raw/SCWdTWbj)
+- [kem0x](https://github.com/kem0x)
 - 0x41414141
 - Bizzfarts
-- JunctionNinja
-- Kian738
-- Lucas7Yoshi
-- VastBlast
-- GhostScissors
-- MisterLoki
-- 0ez
-- McMistrzYT
-- Beat-YT
-- mlodyskiny
-- NOTPIES
+- [Kian738](https://github.com/Kian738)
+- [Lucas7Yoshi](https://github.com/Lucas7Yoshi)
+- [VastBlast](https://github.com/VastBlast)
+- [GhostScissors](https://github.com/GhostScissors)
+- [MisterLoki](https://github.com/MisterLoki)
+- [McMistrzYT](https://github.com/McMistrzYT)
+- [Beat-YT](https://github.com/Beat-YT)
+- [mlodyskiny](https://github.com/mlodyskiny)
+- [NOTPIES](https://github.com/NOTPIES)
+- [Amrsatrio](https://github.com/Amrsatrio)
+- [ItsJunction](https://github.com/ItsJunction)
+- [SizzyFNBR](https://github.com/SizzyFNBR)
+- [Not-Neon](https://github.com/Not-Neon)
+- [thoo0244](https://github.com/thoo0224)
+- [FiberAhmed](https://github.com/FiberAhmed)
+- [PeQuLeaks](https://github.com/PeQuLeaks)
+- [Tectors](https://github.com/Tectors)
+- [3jm](https://github.com/3jm)
+- [HybridFNBR](https://github.com/HybridFNBR)
