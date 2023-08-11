@@ -49,3 +49,7 @@ Dynamic keys are added once the next game version is released.
 - [Tectors](https://github.com/Tectors)
 - [3jm](https://github.com/3jm)
 - [HybridFNBR](https://github.com/HybridFNBR)
+- [Slushia](https://github.com/Slushia)
+- [FuneeLeaks](https://github.com/funeeleaks)
+- [Cyuubi](https://github.com/daCyuubi)
+- Brianna
