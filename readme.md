@@ -3,11 +3,11 @@
 A collection of AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-3)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-4)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  25.30  | 0x198F5F1E8649B1B3B0E1F8E808DCFF240E838D2A7E24940D1082D843DCDF68F0 |
+|  26.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
 
 ___
 
