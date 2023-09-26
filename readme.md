@@ -7,7 +7,7 @@ ___
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  26.10  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
+|  26.20  | 0x26D0D8E1CC407D5000567BC8F345E0F930BF2CA056906BC0B4FD166C8C11DA42 |
 
 ___
 
@@ -36,6 +36,7 @@ Dynamic keys are added once the next game version is released.
 - [GhostScissors](https://github.com/GhostScissors)
 - [MisterLoki](https://github.com/MisterLoki)
 - [McMistrzYT](https://github.com/McMistrzYT)
+- [gamerbross](https://github.com/gamerbross)
 - [Beat-YT](https://github.com/Beat-YT)
 - [mlodyskiny](https://github.com/mlodyskiny)
 - [NOTPIES](https://github.com/NOTPIES)
