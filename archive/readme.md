@@ -324,6 +324,7 @@ AES keys that unlock the main files.
 
 ## Chapter 4 Season 5
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  27.00  | 0x6BA518CF25508953F1D7F625E180BA53A037A8B43D28BF7AA4B17FD6F8BA953D |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [27.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/27.00.md) | 0x6BA518CF25508953F1D7F625E180BA53A037A8B43D28BF7AA4B17FD6F8BA953D |
+|                                              27.10                                               | 0xDAE36DE5B49793DBD57ABE5EBF3946ABD2813D822B537FAE41602C6CF3345048 |
