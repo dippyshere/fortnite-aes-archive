@@ -3,13 +3,13 @@
 AES keys that unlock the main files.
 
 - Cert - 13.20
-    - Grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
+    - From [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Blenux, Bizzfarts & 0x41414141.
 - 13.30 - 21.20
-    - Grabbed from BenBot, thanks to FunGames.
+    - From BenBot, thanks to FunGames.
 - 21.30 - Present
-    - Grabbed from [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
+    - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-5)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-1-underground)
 
 ## Cert
 
@@ -334,4 +334,10 @@ AES keys that unlock the main files.
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [27.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/27.00.md) | 0x6BA518CF25508953F1D7F625E180BA53A037A8B43D28BF7AA4B17FD6F8BA953D |
 | [27.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/27.10.md) | 0xDAE36DE5B49793DBD57ABE5EBF3946ABD2813D822B537FAE41602C6CF3345048 |
-|                                              27.11                                               | 0x80900B2F9BCA8542F2E1C2DD99D2A99D9A34FAB6D58CD1D7E326611A52D8D957 |
+| [27.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/27.11.md) | 0x80900B2F9BCA8542F2E1C2DD99D2A99D9A34FAB6D58CD1D7E326611A52D8D957 |
+
+## Chapter 5 Season 1 (Underground)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  28.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |

@@ -1,13 +1,13 @@
 # Fortnite AES Archive
 
-A collection of AES Keys and GUIDs for Fortnite PAKs.
+A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-5)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-1-underground)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  27.11  | 0x80900B2F9BCA8542F2E1C2DD99D2A99D9A34FAB6D58CD1D7E326611A52D8D957 |
+|  28.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
 
 ___
 
