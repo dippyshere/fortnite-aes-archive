@@ -338,6 +338,7 @@ AES keys that unlock the main files.
 
 ## Chapter 5 Season 1 (Underground)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  28.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [28.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/28.00.md) | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
+|                                              28.01                                               | 0x2CA17992B4DFAA23355D60209F40A3830D2C71A0D7D551CFE5F457B14ED05324 |
