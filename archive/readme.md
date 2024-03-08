@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-1-underground)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-2-myths-&-mortals)
 
 ## Cert
 
@@ -344,4 +344,10 @@ AES keys that unlock the main files.
 | [28.01](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/28.01.md) | 0x2CA17992B4DFAA23355D60209F40A3830D2C71A0D7D551CFE5F457B14ED05324 |
 | [28.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/28.10.md) | 0xA55ABC6F7E1D7F696861F47A140C79A9A276974CAF3314CDF61182C85F6FE56C |
 | [28.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/28.20.md) | 0x2615E4242EF7903730AE011FF6F49DA42B0EF62A101D63928D79A9BB8F245ABB |
-|                                              28.30                                               | 0x3C6DEEBD76ED5FFB91B0B3938C30C4AF7442E59345ACD53FC6F480ACB8AE0462 |
+| [28.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/28.30.md) | 0x3C6DEEBD76ED5FFB91B0B3938C30C4AF7442E59345ACD53FC6F480ACB8AE0462 |
+
+## Chapter 5 Season 2 (Myths & Mortals)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  29.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
