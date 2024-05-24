@@ -3,11 +3,11 @@
 A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-2-myths--mortals)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-3-wrecked)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  29.40  | 0x3C2CEFB3079A2FC4921E76AC5C506B9933867A4E259AB91C9BBBE9B8D7D39F80 |
+|  30.00  | 0x0A53D5662D921BD11B6842C892F53317A675120E6DBB746493C2BA9429FEFF45 |
 
 ___
 
