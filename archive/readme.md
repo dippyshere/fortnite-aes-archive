@@ -359,6 +359,7 @@ AES keys that unlock the main files.
 
 ## Chapter 5 Season 3 (Wrecked)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  30.00  | 0x0A53D5662D921BD11B6842C892F53317A675120E6DBB746493C2BA9429FEFF45 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [30.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/30.00.md) | 0x0A53D5662D921BD11B6842C892F53317A675120E6DBB746493C2BA9429FEFF45 |
+|                                              30.10                                               | 0xE5935D66C8E54B8AADECAFDB1F2945379FF66CF1EE41D9C483A5915677B69D12 |

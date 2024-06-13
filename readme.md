@@ -7,7 +7,7 @@ ___
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  30.00  | 0x0A53D5662D921BD11B6842C892F53317A675120E6DBB746493C2BA9429FEFF45 |
+|  30.10  | 0xE5935D66C8E54B8AADECAFDB1F2945379FF66CF1EE41D9C483A5915677B69D12 |
 
 ___
 
@@ -24,7 +24,7 @@ Dynamic keys are added once the next game version is released.
 
 ## Credits
 
-- [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes) 🫡
+- [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.genxgames.gg/api/v1/aes) 🫡 ❤️
 - [FunGames](https://github.com/FabianFG) [BenBot](https://benbotfn.tk/api/v1/aes) 🫡
 - [Blenux](https://github.com/Blenux) [Pastebin](https://pastebin.com/raw/SCWdTWbj)
 - [kem0x](https://github.com/kem0x)
