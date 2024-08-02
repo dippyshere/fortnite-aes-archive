@@ -27,6 +27,7 @@ Dynamic keys are added once the next game version is released.
 - [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.genxgames.gg/api/v1/aes) 🫡 ❤️
 - [FunGames](https://github.com/FabianFG) [BenBot](https://benbotfn.tk/api/v1/aes) 🫡
 - [Blenux](https://github.com/Blenux) [Pastebin](https://pastebin.com/raw/SCWdTWbj)
+- [SpushFNBR](https://github.com/SpushFN-BR)
 - [kem0x](https://github.com/kem0x)
 - 0x41414141
 - Bizzfarts

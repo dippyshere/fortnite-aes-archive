@@ -120,7 +120,7 @@ AES keys that unlock the main files.
 | [8.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.20.md) | 0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
 | [8.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.30.md) | 0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
 | [8.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.40.md) | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| [8.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.50.md) |                                                                    |
+| [8.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.50.md) | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 | [8.51](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.51.md) | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 
 ## Chapter 1 Season 9 (The Future Is Yours)
