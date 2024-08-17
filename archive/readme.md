@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-3-wrecked)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-4-absolute-doom)
 
 ## Cert
 
@@ -365,4 +365,10 @@ AES keys that unlock the main files.
 | [30.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/30.10.md) | 0xE5935D66C8E54B8AADECAFDB1F2945379FF66CF1EE41D9C483A5915677B69D12 |
 | [30.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/30.20.md) | 0x390B2700578849DC52AA2C7D1451F9B6F8824FAE69A04A245D5B55A08153B924 |
 | [30.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/30.30.md) | 0x8AA193F7F5E8640285AB26FB7139A84CE59CED5D5C5705FAD3484B05F530F5FE |
-|                                              30.40                                               | 0x81762C86F6B0AA189F30156226CDD083EB48A6DEB35A6EE4B4C4D4F090791642 |
+| [30.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/30.40.md) | 0x81762C86F6B0AA189F30156226CDD083EB48A6DEB35A6EE4B4C4D4F090791642 |
+
+## Chapter 5 Season 4 (Absolute Doom)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  31.00  | 0xE9C3E4DC78EE73C065552385CAC26C547E1F78D87E6796209BFE92E6AE79F1AD |
