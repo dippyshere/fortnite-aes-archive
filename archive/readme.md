@@ -40,12 +40,12 @@ AES keys that unlock the main files.
 
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
-|  1.11   |                                                                    |
-|  2.1.0  |                                                                    |
-|  2.2.0  |                                                                    |
-|  2.3.0  |                                                                    |
-|  2.3.2  |                                                                    |
-|  2.4.0  |                                                                    |
+|  1.11   | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
+|  2.1.0  | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
+|  2.2.0  | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
+|  2.3.0  | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
+|  2.3.2  | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
+|  2.4.0  | 0x79323938716A53623131354E71513341676164333044576E3251597254493843 |
 |  2.4.2  | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
 |  2.5.0  | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
 
@@ -78,11 +78,11 @@ AES keys that unlock the main files.
 |:-------:|--------------------------------------------------------------------|
 |  5.00   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 |  5.10   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-|  5.20   |                                                                    |
-|  5.21   |                                                                    |
-|  5.30   |                                                                    |
-|  5.40   |                                                                    |
-|  5.41   |                                                                    |
+|  5.20   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+|  5.21   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+|  5.30   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+|  5.40   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+|  5.41   | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 ## Chapter 1 Season 6 (Darkness Rises)
 
@@ -102,7 +102,7 @@ AES keys that unlock the main files.
 
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
-|                                              7.00                                              |                                                                    |
+|                                              7.00                                              | 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
 |                                              7.01                                              |                                                                    |
 | [7.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/7.10.md) | 0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714 |
 |                                              7.20                                              | 0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
@@ -128,7 +128,7 @@ AES keys that unlock the main files.
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [9.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.00.md) | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
-| [9.01](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.01.md) |                                                                    |
+| [9.01](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.01.md) | 0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | [9.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.10.md) | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 | [9.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.20.md) | 0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | [9.21](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/9.21.md) | 0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
@@ -171,7 +171,7 @@ AES keys that unlock the main files.
 | [12.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.20.md) | 0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
 | [12.21](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.21.md) | 0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
 | [12.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.30.md) | 0x1AE302653ACB82998A45DBC2122EAAF86CEFF7F8E1D63B8F0D96562843BC28E9 |
-| [12.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.40.md) |                                                                    |
+| [12.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.40.md) | 0x701E5D1B4D13A7BE1F8B56EECDAA4EFA1F9B1BF8C12AA54E9C57A39A3590B61F |
 | [12.41](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.41.md) | 0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 |                                              12.50                                               | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
 | [12.60](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/12.60.md) | 0x2DACE7F864025613951B2F2267128F0F5F30A1D31692C67178439AD109CEC935 |
