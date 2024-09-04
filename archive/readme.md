@@ -369,6 +369,7 @@ AES keys that unlock the main files.
 
 ## Chapter 5 Season 4 (Absolute Doom)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  31.00  | 0xE9C3E4DC78EE73C065552385CAC26C547E1F78D87E6796209BFE92E6AE79F1AD |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [31.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/31.00.md) | 0xE9C3E4DC78EE73C065552385CAC26C547E1F78D87E6796209BFE92E6AE79F1AD |
+|                                              31.10                                               | 0xE4417665D53F2340E22F7DE2DF23F4CC43D16413A256AD0393F821B633DC54E4 |
