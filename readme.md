@@ -7,7 +7,7 @@ ___
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  31.40  | 0x6B80868E9345C839D8B10CE00179763E15E5FDA976E499D6CFBEDB41AC0FAD36 |
+|  31.41  | 0x6B80868E9345C839D8B10CE00179763E15E5FDA976E499D6CFBEDB41AC0FAD36 |
 
 ___
 
@@ -28,6 +28,7 @@ Dynamic keys are added once the next game version is released.
 - [FunGames](https://github.com/FabianFG) [BenBot](https://benbotfn.tk/api/v1/aes) 🫡
 - [Blenux](https://github.com/Blenux) [Pastebin](https://pastebin.com/raw/SCWdTWbj)
 - [SpushFNBR](https://github.com/SpushFN-BR)
+- [Chompster86](https://github.com/Chompster86)
 - [kem0x](https://github.com/kem0x)
 - 0x41414141
 - Bizzfarts
