@@ -96,7 +96,7 @@ AES keys that unlock the main files.
 |  6.21   | 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 |  6.22   | 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 |  [6.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/6.30.md)   | 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
-|  [6.31](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/6.31.md)   | 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
+|  [6.31](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/6.31.md)   | 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
 
 ## Chapter 1 Season 7 (You Better Watch Out)
 
