@@ -380,6 +380,7 @@ AES keys that unlock the main files.
 
 ## Chapter 5 Season 5 (Chapter 2 Remix)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  32.00  | 0x6CC7E301422E841F6E8BBB015D06EF3DB6FD29AEE7DBEC3BC659747C39F3745B |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [32.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/32.00.md) | 0x6CC7E301422E841F6E8BBB015D06EF3DB6FD29AEE7DBEC3BC659747C39F3745B |
+|                                              32.10                                               | 0xEF7CC91D735CC2F5316477F780026CD7B2226600A001168B6CB062D7EA9D3121 |
