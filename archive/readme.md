@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-5-season-5-chapter-2-remix)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-1-demon-hunters)
 
 ## Cert
 
@@ -384,4 +384,10 @@ AES keys that unlock the main files.
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [32.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/32.00.md) | 0x6CC7E301422E841F6E8BBB015D06EF3DB6FD29AEE7DBEC3BC659747C39F3745B |
 | [32.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/32.10.md) | 0xEF7CC91D735CC2F5316477F780026CD7B2226600A001168B6CB062D7EA9D3121 |
-|                                              32.11                                               | 0x7535763BD818F9E92EECEBBD14B9B2C12BDC939086AF433F37E0156CCD18819F |
+| [32.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/32.11.md) | 0x7535763BD818F9E92EECEBBD14B9B2C12BDC939086AF433F37E0156CCD18819F |
+
+## Chapter 6 Season 1 (Demon HUNTERS)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  33.00  | 0x743E31FABE50F7D31FD72FC4CD6A09203315521002610A663977FC4EC37982A2 |
