@@ -388,6 +388,7 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Season 1 (Demon HUNTERS)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  33.00  | 0x743E31FABE50F7D31FD72FC4CD6A09203315521002610A663977FC4EC37982A2 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [33.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/33.00.md) | 0x743E31FABE50F7D31FD72FC4CD6A09203315521002610A663977FC4EC37982A2 |
+|                                              33.10                                               | 0xAC809AB1290C0E381B30F6F23914880A2F8E4055621540D98A537FA7BB59421D |
