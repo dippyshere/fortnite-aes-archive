@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-1-demon-hunters)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-2-lawless)
 
 ## Cert
 
@@ -394,4 +394,11 @@ AES keys that unlock the main files.
 | [33.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/33.10.md) | 0xAC809AB1290C0E381B30F6F23914880A2F8E4055621540D98A537FA7BB59421D |
 | [33.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/33.11.md) | 0x62450FF9261CCC2EE50C217A2D9EE97F05F09203CF6E395B7CAB9D8892B714CE |
 | [33.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/33.20.md) | 0x61D4FD0F3AC7768A08E82A99D275A13762A299FCC28CCF53C46BB221BB90D2B8 |
-|                                              33.30                                               | 0x4940113FFF51E90CA7C9633AA84BC8075ADC90C71EFC0D1E8FCBD1A9CAADFC91 |
+| [33.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/33.30.md) | 0x4940113FFF51E90CA7C9633AA84BC8075ADC90C71EFC0D1E8FCBD1A9CAADFC91 |
+
+
+## Chapter 6 Season 2 (LAWLESS)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  34.00  | 0x9B00653526286646CD053FAA0E3AAC2F56B8684899CD29EA62880CC2EEDF84C8 |
