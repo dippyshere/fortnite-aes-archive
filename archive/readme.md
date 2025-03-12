@@ -399,6 +399,7 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Season 2 (LAWLESS)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  34.00  | 0x9B00653526286646CD053FAA0E3AAC2F56B8684899CD29EA62880CC2EEDF84C8 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [34.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/34.00.md) | 0x9B00653526286646CD053FAA0E3AAC2F56B8684899CD29EA62880CC2EEDF84C8 |
+|                                              34.10                                               | 0xB8137A10BD267EA444C2FF5816A9BB3741E1E00D84C6347BAC2BA9E8B0B21566 |
