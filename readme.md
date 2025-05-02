@@ -3,11 +3,11 @@
 A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-2-lawless)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-3-galactic-battle)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  34.40  | 0xC6C7EA84133F59CFA9327F7B8F0385224CDAA11C0EC4B21DC9B6337D98044BB2 |
+|  35.00  | 0x17243B0E3E66DA90347F7C4787692505EC5E5285484633D71B09CD6ABB714E9B |
 
 ___
 
