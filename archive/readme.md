@@ -411,7 +411,8 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Season 3 (Galactic Battle)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  35.00  | 0x17243B0E3E66DA90347F7C4787692505EC5E5285484633D71B09CD6ABB714E9B |
-|  35.10  | 0x163920F671322A7D00302EF00A4E046AF2C0B4B204BCC035A8CA8869472B2448 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [35.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/35.00.md) | 0x17243B0E3E66DA90347F7C4787692505EC5E5285484633D71B09CD6ABB714E9B |
+| [35.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/35.10.md) | 0x163920F671322A7D00302EF00A4E046AF2C0B4B204BCC035A8CA8869472B2448 |
+|                                              35.20                                               | 0x67E992943B63878FEF3C02DE9E0100C127A6C34A569231ED153E03E6CDB0F5A2 |
