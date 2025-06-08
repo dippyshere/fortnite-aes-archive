@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-3-galactic-battle)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-3-super)
 
 ## Cert
 
@@ -409,10 +409,17 @@ AES keys that unlock the main files.
 | [34.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/34.40.md) | 0xC6C7EA84133F59CFA9327F7B8F0385224CDAA11C0EC4B21DC9B6337D98044BB2 |
 
 
-## Chapter 6 Season 3 (Galactic Battle)
+## Chapter 6 Mini Season 1 (Galactic Battle)
 
 |                                             Version                                              | Key                                                                |
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [35.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/35.00.md) | 0x17243B0E3E66DA90347F7C4787692505EC5E5285484633D71B09CD6ABB714E9B |
 | [35.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/35.10.md) | 0x163920F671322A7D00302EF00A4E046AF2C0B4B204BCC035A8CA8869472B2448 |
-|                                              35.20                                               | 0x67E992943B63878FEF3C02DE9E0100C127A6C34A569231ED153E03E6CDB0F5A2 |
+| [35.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/35.20.md) | 0x67E992943B63878FEF3C02DE9E0100C127A6C34A569231ED153E03E6CDB0F5A2 |
+
+
+## Chapter 6 Season 3 (Super)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  36.00  | 0x69385B0781311449AC9FD56B70C8EE9FD0EF062FD55FF8E28E0AE45C22AE2A1A |
