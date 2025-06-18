@@ -420,6 +420,7 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Season 3 (Super)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  36.00  | 0x69385B0781311449AC9FD56B70C8EE9FD0EF062FD55FF8E28E0AE45C22AE2A1A |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [36.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/36.00.md) | 0x69385B0781311449AC9FD56B70C8EE9FD0EF062FD55FF8E28E0AE45C22AE2A1A |
+|                                              36.10                                               | 0xA43F7FD912C317930F9AABA5075F0ABCF4EE8A7102582636330BECC449D54560 |
