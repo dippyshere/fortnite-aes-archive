@@ -1,0 +1,18 @@
+{
+  "mainKey": "0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2",
+  "dynamicKeys": [
+    {
+      "name": "pakchunk1000",
+      "guid": "0F810ABB0DB8672A438B14169C048145",
+      "key": "0xF6F7C5504684BDECE7684BF2ABE9A119A821DF0F7C7D1759E41A704203733338"
+    },
+    {
+      "name": "pakchunk1001",
+      "guid": "1E22972EF73457C04906F4FA1BC83FA1"
+    },
+    {
+      "name": "pakchunk1002",
+      "guid": "558C4703445945BA01B8A4A7F5AEEC5E"
+    }
+  ]
+}
