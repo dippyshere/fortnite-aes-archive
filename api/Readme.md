@@ -1,5 +1,7 @@
 # API Archive
 
+URL format: https://raw.githubusercontent.com/dippyshere/fortnite-aes-archive/refs/heads/master/api/archive/{version}.json
+
 **Format**:
 ```json
 {
@@ -13,3 +15,5 @@
   ]
 }
 ```
+
+**Generated using:** [/src/main.py](https://github.com/dippyshere/fortnite-aes-archive/blob/master/api/src/main.py)
