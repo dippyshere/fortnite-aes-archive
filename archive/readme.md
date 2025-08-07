@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-3-super)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-4-shock-n-awesome)
 
 ## Cert
 
@@ -425,4 +425,11 @@ AES keys that unlock the main files.
 | [36.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/36.00.md) | 0x69385B0781311449AC9FD56B70C8EE9FD0EF062FD55FF8E28E0AE45C22AE2A1A |
 | [36.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/36.10.md) | 0xA43F7FD912C317930F9AABA5075F0ABCF4EE8A7102582636330BECC449D54560 |
 | [36.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/36.20.md) | 0xCAF4A15287F2C3A9199837A80FFD84EF85787FBF0EB80B27A75E1E660195A032 |
-|                                              36.30                                               | 0x7E0342286BB79D986B204ADF54AE03E066FA5FB41A0D360AFC4E1F48B1CE7EDD |
+| [36.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/36.30.md) | 0x7E0342286BB79D986B204ADF54AE03E066FA5FB41A0D360AFC4E1F48B1CE7EDD |
+
+
+## Chapter 6 Season 4 (Shock 'N Awesome)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  37.00  | 0x20E23FDB8EF3D9503F6012072BAF4090EA6363A5E4BFBB457608C731914D8E83 |
