@@ -430,6 +430,7 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Season 4 (Shock 'N Awesome)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  37.00  | 0x20E23FDB8EF3D9503F6012072BAF4090EA6363A5E4BFBB457608C731914D8E83 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [37.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.00.md) | 0x20E23FDB8EF3D9503F6012072BAF4090EA6363A5E4BFBB457608C731914D8E83 |
+|                                              37.10                                               | 0xBB6030C6AFF40C7CDBB38569A8A1CFC6FE5DA9FBDC07AC8BA8DC53A5BBB3E2A2 |
