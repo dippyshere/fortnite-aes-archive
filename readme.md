@@ -7,7 +7,7 @@ ___
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  37.10  | 0xBB6030C6AFF40C7CDBB38569A8A1CFC6FE5DA9FBDC07AC8BA8DC53A5BBB3E2A2 |
+|  37.20  | 0xC574ACAB3BE3AD7FED4A04710B436CD07E7DA037DF77AF5D6F6A23E1CED5EC93 |
 
 ___
 
