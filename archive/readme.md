@@ -437,4 +437,5 @@ AES keys that unlock the main files.
 | [37.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.20.md) | 0xC574ACAB3BE3AD7FED4A04710B436CD07E7DA037DF77AF5D6F6A23E1CED5EC93 |
 | [37.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.30.md) | 0x7408A7C7EC17B4BA5963642421C55E652333CBA0786E779D24AC31D3C3D8124D |
 | [37.31](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.31.md) | 0xE43EE4B1D40B0F12FD3985C0A3284AD63C72B85237E543E6467754C12E4F8CB6 |
-|                                              37.40                                               | 0x5802DC0E104F026A612F0E5AE6F69030B66C2432181E41B69131BF9C5CE93E1D |
+| [37.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.40.md) | 0x5802DC0E104F026A612F0E5AE6F69030B66C2432181E41B69131BF9C5CE93E1D |
+|                                              37.50                                               | 0xB310CD42889106B4988378760C7CFF537EE6896FF520A6410BA43266AA86E6CA |
