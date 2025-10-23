@@ -7,9 +7,23 @@
       "key": "0x12441D5E13C3F497BA069EDD97065D9645F64B485AAFABEA50E8CC205F6775F7"
     },
     {
+      "name": "pakchunk1001-WindowsClient.utoc",
+      "guid": "7EE5B905919FC30BA533A9B72266C37D",
+      "key": "0x9000F6F3020EEB5DC546D83971F1B3FA36F439F79DDA5DCDA275464A67AA0805"
+    },
+    {
+      "name": "pakchunk1002-WindowsClient.utoc",
+      "guid": "88E5DC354F07186FFE1EA93D874832A6",
+      "key": "0xE851A6EFF448024AB69D892C97E764B93BC14B3826CFF0F13D0E22B24301C27B"
+    },
+    {
       "name": "pakchunk1003-WindowsClient.utoc",
       "guid": "907E8D93213A838738E26D30AE3A5DCB",
       "key": "0x22CD59FF64E380CEA35ABF51FF37751386E32A10E75A669EEEB8D6F94214E587"
+    },
+    {
+      "name": "pakchunk1004-WindowsClient.utoc",
+      "guid": "AB3D0E624449C695C64914E2B4EDB958"
     },
     {
       "name": "pakchunk1005-WindowsClient.utoc",
