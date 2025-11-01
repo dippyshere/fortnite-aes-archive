@@ -3,11 +3,11 @@
 A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-4-shock-n-awesome)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-mini-season-2-the-simpsons)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  37.51  | 0x40F92B7D44B95E105F9E8CCCCAD2140B7019949B0E047C06D37342CB430E39CE |
+|  38.00  | 0x1BC2DDCEC20348852EA75830E606B17EF4D5F7ADAE0AB2B97924B4D7CF124A2E |
 
 ___
 
@@ -24,7 +24,7 @@ Dynamic keys are added once the next game version is released.
 
 ## Credits
 
-- [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.genxgames.gg/api/v1/aes) 🫡 ❤️
+- [GMatrixGames](https://github.com/GMatrixGames) [Fortnite Central API](https://fortnitecentral.genxgames.gg/api/v1/aes) 🫡 ❤️ & [UEDB](https://uedb.dev/svc/api/v1/fortnite/aes)
 - [FunGames](https://github.com/FabianFG) [BenBot](https://benbotfn.tk/api/v1/aes) 🫡
 - [Blenux](https://github.com/Blenux) [Pastebin](https://pastebin.com/raw/SCWdTWbj)
 - [SpushFNBR](https://github.com/SpushFN-BR)

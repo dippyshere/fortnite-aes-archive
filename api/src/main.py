@@ -35,6 +35,8 @@ for match in matches:
 
         row_pattern = re.compile(r'\|\s*([^\|\n]+?)\s*\|\s*(.*?)\s*(?:\|\s*(.*?)\s*)?\|')
         for row in row_pattern.findall(dynamic_content):
+            if row[0] == "GUID":
+                break
             if len(row) < 2:
                 continue
 
@@ -75,6 +77,9 @@ for match in matches:
             if "name" in name.lower() or set(name.strip()) <= {"-", "*"}:
                 continue
 
+            if name == "GUID":
+                continue
+
             name_clean = name.strip("* ").strip()
 
             if any(d.get("name") == name_clean for d in dynamic_keys):
@@ -90,11 +95,17 @@ for match in matches:
                 continue
             seen_guids.add(guid)
 
-            dynamic_keys.append({
-                "name": name_clean,
-                "guid": guid,
-                **({"key": key} if key else {})
-            })
+            if "<" in key_guid_cell:
+                dynamic_keys.append({
+                    "name": name_clean,
+                    "guid": guid,
+                    **({"key": key} if key else {})
+                })
+            else:
+                dynamic_keys.append({
+                    "guid": name,
+                    "key": key_guid_cell
+                })
 
         if dynamic_keys:
             json_data["dynamicKeys"] = dynamic_keys

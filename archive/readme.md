@@ -439,4 +439,11 @@ AES keys that unlock the main files.
 | [37.31](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.31.md) | 0xE43EE4B1D40B0F12FD3985C0A3284AD63C72B85237E543E6467754C12E4F8CB6 |
 | [37.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.40.md) | 0x5802DC0E104F026A612F0E5AE6F69030B66C2432181E41B69131BF9C5CE93E1D |
 | [37.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.50.md) | 0xB310CD42889106B4988378760C7CFF537EE6896FF520A6410BA43266AA86E6CA |
-|                                              37.51                                               | 0x40F92B7D44B95E105F9E8CCCCAD2140B7019949B0E047C06D37342CB430E39CE |
+| [37.51](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/37.51.md) | 0x40F92B7D44B95E105F9E8CCCCAD2140B7019949B0E047C06D37342CB430E39CE |
+
+
+## Chapter 6 Mini Season 2 (The Simpsons)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  38.00  | 0x1BC2DDCEC20348852EA75830E606B17EF4D5F7ADAE0AB2B97924B4D7CF124A2E |
