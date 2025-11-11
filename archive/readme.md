@@ -444,6 +444,7 @@ AES keys that unlock the main files.
 
 ## Chapter 6 Mini Season 2 (The Simpsons)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  38.00  | 0x1BC2DDCEC20348852EA75830E606B17EF4D5F7ADAE0AB2B97924B4D7CF124A2E |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [38.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/38.00.md) | 0x1BC2DDCEC20348852EA75830E606B17EF4D5F7ADAE0AB2B97924B4D7CF124A2E |
+|                                              38.10                                               | 0x523A75CF18126A5D02C943F42DAB4EE97093DDADA822C72B6909E246EFC50A0B |
