@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-6-season-4-shock-n-awesome)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-1-pacific-break)
 
 ## Cert
 
@@ -448,4 +448,10 @@ AES keys that unlock the main files.
 |:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [38.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/38.00.md) | 0x1BC2DDCEC20348852EA75830E606B17EF4D5F7ADAE0AB2B97924B4D7CF124A2E |
 | [38.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/38.10.md) | 0x523A75CF18126A5D02C943F42DAB4EE97093DDADA822C72B6909E246EFC50A0B |
-|                                              38.11                                               | 0x976C9BC5E78B375B3F73FA31DFFC87B82F13C887EE51FB5005E333F6F17449EC |
+| [38.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/38.11.md) | 0x976C9BC5E78B375B3F73FA31DFFC87B82F13C887EE51FB5005E333F6F17449EC |
+
+## Chapter 7 Season 1 (Pacific Break)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  39.00  | 0x8E95784F8ECC94113349AE1678C62EBB50ABBA8C10422E7C5D8399B13DA07AE8 |
