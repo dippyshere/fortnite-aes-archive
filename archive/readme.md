@@ -455,3 +455,4 @@ AES keys that unlock the main files.
 | Version | Key                                                                |
 |:-------:|--------------------------------------------------------------------|
 |  39.00  | 0x8E95784F8ECC94113349AE1678C62EBB50ABBA8C10422E7C5D8399B13DA07AE8 |
+|  39.10  | 0x37F0D997D39EEC065AC6245A4A06ADA3D863D7DD984F223F7B0A97513DC573AE |
