@@ -114,9 +114,9 @@ AES keys that unlock the main files.
 |                                            Version                                             | Key                                                                |
 |:----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
 | [8.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.00.md) | 0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B |
-|                                              8.01                                              |                                                                    |
+|                                              8.01                                              | 0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B |
 | [8.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.10.md) | 0x52C122AC39C8D56ED15834768A87D18AA26E74CA694060B9E6BCC1C39C0852FA |
-| [8.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.11.md) |                                                                    |
+| [8.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.11.md) | 0x52C122AC39C8D56ED15834768A87D18AA26E74CA694060B9E6BCC1C39C0852FA |
 | [8.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.20.md) | 0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
 | [8.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.30.md) | 0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
 | [8.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/8.40.md) | 0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
