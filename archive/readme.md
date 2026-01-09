@@ -452,8 +452,9 @@ AES keys that unlock the main files.
 
 ## Chapter 7 Season 1 (Pacific Break)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  39.00  | 0x8E95784F8ECC94113349AE1678C62EBB50ABBA8C10422E7C5D8399B13DA07AE8 |
-|  39.10  | 0x37F0D997D39EEC065AC6245A4A06ADA3D863D7DD984F223F7B0A97513DC573AE |
-|  39.11  | 0x91FEC0EA895875DBFD0E2BA9487AF5F0BB2383769033FA7A25E3729D1F923260 |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [39.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.00.md) | 0x8E95784F8ECC94113349AE1678C62EBB50ABBA8C10422E7C5D8399B13DA07AE8 |
+| [39.10](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.10.md) | 0x37F0D997D39EEC065AC6245A4A06ADA3D863D7DD984F223F7B0A97513DC573AE |
+| [39.11](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.11.md) | 0x91FEC0EA895875DBFD0E2BA9487AF5F0BB2383769033FA7A25E3729D1F923260 |
+|                                              39.20                                               | 0x8A58FD051BAE8968FCB562192850950B650BED71447095D42E97EED6F5CACFBC |
