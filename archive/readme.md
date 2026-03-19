@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-1-pacific-break)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-2-showdown)
 
 ## Cert
 
@@ -461,4 +461,10 @@ AES keys that unlock the main files.
 | [39.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.30.md) | 0x413222CE49E03E5B13F6A0C812BA4C095E3816809AA51F96AD59E40C3F8D5CA0 |
 | [39.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.40.md) | 0x67E127D5C846A0D426BE4849FF4D087787CC0169D8BB461D69CF9B2B76AB21EC |
 | [39.50](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.50.md) | 0x0D1ED4266D809CA4B1EE4E0F7C1D2692602D7D4DBC6319D6818324F16D889654 |
-|                                              39.51                                               | 0x98F7261584C345F9B19402F20110A7A68A48C798FFCE86982F2E8C86F0725CDA |
+| [39.51](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/39.51.md) | 0x98F7261584C345F9B19402F20110A7A68A48C798FFCE86982F2E8C86F0725CDA |
+
+## Chapter 7 Season 2 (Showdown)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  40.00  | 0x55AFB842F6B302A2DDC69A3C437DDEABBB3370C700F8814A70520BBABBF7B770 |
