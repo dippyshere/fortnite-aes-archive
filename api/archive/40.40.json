@@ -1,3 +1,103 @@
 {
-  "mainKey": "0x76F0FD67E7CE5EE97DA78C861A8A51F8ED4BE64C838989DF204D102D9B30627C"
+  "mainKey": "0x76F0FD67E7CE5EE97DA78C861A8A51F8ED4BE64C838989DF204D102D9B30627C",
+  "dynamicKeys": [
+    {
+      "name": "pakchunk1004-WindowsClient.utoc",
+      "guid": "9687BE7F5181893AAD73EF29D539BCE8"
+    },
+    {
+      "name": "pakchunk1005-WindowsClient.utoc",
+      "guid": "0589E2277EBE3C7E3F31AF9B87314DE2"
+    },
+    {
+      "name": "pakchunk1006-WindowsClient.utoc",
+      "guid": "0C7ACA1663E5F49F7BB6DADA07C8013C",
+      "key": "0x5C0C56C38870803A261142B00DF2C7DE3B8A799023362BA49B8D9BB79C330952"
+    },
+    {
+      "name": "pakchunk1007-WindowsClient.utoc",
+      "guid": "1701A7757F103D484D584F3E87152708"
+    },
+    {
+      "name": "pakchunk1008-WindowsClient.utoc",
+      "guid": "20F3A71D44149B90CF6CF32E4091DDEE",
+      "key": "0x1F10CBC06E91E3920A5BB74A18AA6B29CB3FDEA71961729BD94F2159D37DE71C"
+    },
+    {
+      "name": "pakchunk1009-WindowsClient.utoc",
+      "guid": "295E40AF289C3D9FED477B65348DF647",
+      "key": "0xD140E0EE8DADDE8078EFF7125D2E163CF211902AC0BB9AE176E8DC90ADB124F1"
+    },
+    {
+      "name": "pakchunk1010-WindowsClient.utoc",
+      "guid": "420E894B7AE4CF3742278AFB20B0904F",
+      "key": "0x20696632082A06BDBAB49FAAEABFCE93C9B524ECC893197ABCDB04D75D9DB481"
+    },
+    {
+      "name": "pakchunk1011-WindowsClient.utoc",
+      "guid": "4DAF2AF455EF95BA2E3D56B581236D2F",
+      "key": "0x37CFA3FAC28D473B915DA3CAECEED05CA788DA44D3C8982827D14B9D47587D0C"
+    },
+    {
+      "name": "pakchunk1012-WindowsClient.utoc",
+      "guid": "566C81D4135701C644D610BFB6CC0DFA",
+      "key": "0xE51898A01305BE0C209D795801FD26365EF9C747A637241489EEC9CC9E76A06D"
+    },
+    {
+      "name": "pakchunk1013-WindowsClient.utoc",
+      "guid": "575AFCB73A540F22EAC3599728BC6179",
+      "key": "0x204456D316A45AB01FEBFF11116FB2FFC7D0DE98223400D8BDC5A804F5A86BF8"
+    },
+    {
+      "name": "pakchunk1014-WindowsClient.utoc",
+      "guid": "701D3DD54B5FF6F45B01AFD81DA0D4B7",
+      "key": "0x008C806972700E3CB3ECB088D53309428EF2BDA139734926C389E971DF8236FD"
+    },
+    {
+      "name": "pakchunk1015-WindowsClient.utoc",
+      "guid": "967523260CAA467671A76580974BBDD5"
+    },
+    {
+      "name": "pakchunk1017-WindowsClient.utoc",
+      "guid": "971B1E90F4B91D6FB3234BC1A32D5C57"
+    },
+    {
+      "name": "pakchunk1018-WindowsClient.utoc",
+      "guid": "A560698C321192C93CADB94F84A69A81"
+    },
+    {
+      "name": "pakchunk1019-WindowsClient.utoc",
+      "guid": "B7D21689D8906EA8BEF8B4D237887B94",
+      "key": "0x3B2768E6ED642E0281AD55B91FAE6D6D1787AC9AD1C51AC737D8E59DBA3370E5"
+    },
+    {
+      "name": "pakchunk1020-WindowsClient.utoc",
+      "guid": "BE1F2AB3C7F7BED6001412875A5D57B5",
+      "key": "0x0D27F713E63D386265770866BBE108F6C2C24A81BB1A9DE0565F7177DC8B8A8F"
+    },
+    {
+      "name": "pakchunk1021-WindowsClient.utoc",
+      "guid": "D11453D3F7CE0BFAB49C02FEEB3648EB",
+      "key": "0xD65B62F6D466F61F3554B3152F7F82A4A5B74A26AE724F23F3C0D7C0DF8D43DC"
+    },
+    {
+      "name": "pakchunk1022-WindowsClient.utoc",
+      "guid": "DBCAA577BD017AC8CAB2FA6E6182E893"
+    },
+    {
+      "name": "pakchunk1023-WindowsClient.utoc",
+      "guid": "DF5FBC1E2F0E5CAE2B647A1B0C1E2BC3",
+      "key": "0xB33414DFC01D3B1F9B73BEECA3DD0302AF333AF993492BC51787A496EAB0079E"
+    },
+    {
+      "name": "pakchunk1024-WindowsClient.utoc",
+      "guid": "E0BFD17EE45AD27692FB70CA2AD10FEA",
+      "key": "0x0DFFB920B9FB027294968711C26541F8C281164CD3B6CDAC0EC3B47DE509C14C"
+    },
+    {
+      "name": "pakchunk1025-WindowsClient.utoc",
+      "guid": "F1E1BB980479768544CE0FEA6C9CB68D",
+      "key": "0xF875C2D257BAB8C438699F8073C1970A6214C85B019347191F0499B1AFFB1FBF"
+    }
+  ]
 }
