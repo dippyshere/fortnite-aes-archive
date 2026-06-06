@@ -9,7 +9,7 @@ AES keys that unlock the main files.
 - 21.30 - Present
     - From [GMatrixGames' API](https://fortnitecentral.gmatrixgames.ga/api/v1/aes).
 
-[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-2-showdown)
+[Jump to latest](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-3-runners)
 
 ## Cert
 
@@ -472,4 +472,10 @@ AES keys that unlock the main files.
 | [40.20](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/40.20.md) | 0x17BA95ED0A977EDBCAAB719C0B92D9EDCF9E745B982A6E836DE00E9B8EF72104 |
 | [40.30](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/40.30.md) | 0xC36234B3F8D1E25D8DD637392A316B99382AC304DEE17D75AD7137F6321DA892 |
 | [40.40](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/40.40.md) | 0x76F0FD67E7CE5EE97DA78C861A8A51F8ED4BE64C838989DF204D102D9B30627C |
-|                                              40.41                                               | 0x634B17521C35687678FE69FECED9DD74A883FD0C9FE0B7E6DA01DBAC3DC1F462 |
+| [40.41](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/40.41.md) | 0x634B17521C35687678FE69FECED9DD74A883FD0C9FE0B7E6DA01DBAC3DC1F462 |
+
+## Chapter 7 Season 3 (Runners)
+
+| Version | Key                                                                |
+|:-------:|--------------------------------------------------------------------|
+|  41.00  | 0x0A2416572EECAE9561E2384EC6EC5D7C830BB5AEC4D90B5BE756648B2E9AB41A |
