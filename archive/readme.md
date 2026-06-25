@@ -476,6 +476,7 @@ AES keys that unlock the main files.
 
 ## Chapter 7 Season 3 (Runners)
 
-| Version | Key                                                                |
-|:-------:|--------------------------------------------------------------------|
-|  41.00  | 0x0A2416572EECAE9561E2384EC6EC5D7C830BB5AEC4D90B5BE756648B2E9AB41A |
+|                                             Version                                              | Key                                                                |
+|:------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|
+| [41.00](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/dynamic/41.00.md) | 0x0A2416572EECAE9561E2384EC6EC5D7C830BB5AEC4D90B5BE756648B2E9AB41A |
+|                                              41.10                                               | 0x04B2DDB4CAD8F213753FF0B58343739AB4BC37A1BFFEF1CAF553C41E0E20F03E |
