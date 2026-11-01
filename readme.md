@@ -3,11 +3,11 @@
 A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-4-override)
+### [Latest Key](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-7-season-5-treasure-hunters)
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  42.40  | 0xBF0A59E9A8777EA50B2DF5B7E73F6913F64F62D6B9CE81277DD4A5CB861139A3 |
+|  43.00  | 0x0A46D4982E028432C47576382AC7546F20295EDC667B192C38C6676427F207DB |
 
 ___
 
