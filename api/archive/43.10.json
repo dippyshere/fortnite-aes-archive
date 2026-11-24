@@ -1,3 +1,124 @@
 {
-  "mainKey": "0x793B2FF500691A5384EAE078A6E198BC8D80FF4B057B6416B5261ED97DA384D2"
+  "mainKey": "0x793B2FF500691A5384EAE078A6E198BC8D80FF4B057B6416B5261ED97DA384D2",
+  "dynamicKeys": [
+    {
+      "name": "pakchunk1005-WindowsClient.utoc",
+      "guid": "5BCD2ECF0B745C297D28BDADE21DD459",
+      "key": "0x854A31BE78E957D386292E7B41CC0444A15CE99B4EEA35B6A97A43A1035DDBCD"
+    },
+    {
+      "name": "pakchunk1011-WindowsClient.utoc",
+      "guid": "B3DC711CD719B2C7D70F0EDC618C9D30",
+      "key": "0xA8F10B4386EB757FE5CE4179D0C118671AFA767BDAA7FB4D47E286AC287F4699"
+    },
+    {
+      "name": "pakchunk1013-WindowsClient.utoc",
+      "guid": "1701A7757F103D484D584F3E87152708"
+    },
+    {
+      "name": "pakchunk1014-WindowsClient.utoc",
+      "guid": "26AA696ED38645863AC6C482547CA886"
+    },
+    {
+      "name": "pakchunk1015-WindowsClient.utoc",
+      "guid": "28B555EE76549C7FD7FCC4CFD884FB9A"
+    },
+    {
+      "name": "pakchunk1016-WindowsClient.utoc",
+      "guid": "2B8F3225DD34E2C518E684E51CD08D9D"
+    },
+    {
+      "name": "pakchunk1017-WindowsClient.utoc",
+      "guid": "2E35BBFE29DDA7A8A2804C65B2FA50F2",
+      "key": "0x58B0D601FD3E66EC1F32D0496CE860FF19E62047EA3DC08AA5CED9F06F0433E7"
+    },
+    {
+      "name": "pakchunk1022-WindowsClient.utoc",
+      "guid": "57AF07FDB356D4FD4C0AA37591924362",
+      "key": "0xAA903D1F821D4A5960911BEB2BDB4CB0B918A876FE393EDEEAB148859719ED93"
+    },
+    {
+      "name": "pakchunk1024-WindowsClient.utoc",
+      "guid": "656ED53D4AA4BE38F1FC738385908FCF",
+      "key": "0x736B7D42E4D7C07C3A308C04CCFE213B82F60EE8F6F1955B02DE2616A27E886D"
+    },
+    {
+      "name": "pakchunk1027-WindowsClient.utoc",
+      "guid": "8822F828F67E70E7D8119433082950A0",
+      "key": "0x4EF78BD2BD391499515E7DB15E61C5DC890CA738B71BC7BE287B97F7D9956324"
+    },
+    {
+      "name": "pakchunk1029-WindowsClient.utoc",
+      "guid": "90DFC7EB19E1BFB4D686190EF2DD6695"
+    },
+    {
+      "name": "pakchunk1030-WindowsClient.utoc",
+      "guid": "95562C85628B718044766D2805DF7688",
+      "key": "0x1C3C63BEBB93585D8D4175ACD457D4D5DFA1DE42AE4BAF28B8A61341919C7B8C"
+    },
+    {
+      "name": "pakchunk1031-WindowsClient.utoc",
+      "guid": "971B1E90F4B91D6FB3234BC1A32D5C57"
+    },
+    {
+      "name": "pakchunk1032-WindowsClient.utoc",
+      "guid": "ADAB1B0E8C302B3FB78C4949CF1852ED",
+      "key": "0x1A19E88968B70F9DEAB15FA16FD4B2BE7B4958D5A9275CD223633DABD4718805"
+    },
+    {
+      "name": "pakchunk1035-WindowsClient.utoc",
+      "guid": "BD737F1A581814C699799A46D2D9FE31",
+      "key": "0xA82828FD5B8C6EE5525CA811F7FBE7A9FDF70D98E2D8A53EEAD271E4D4E3C2B2"
+    },
+    {
+      "name": "pakchunk1036-WindowsClient.utoc",
+      "guid": "CA57F36E6F43C8CA2D185521618AFC41"
+    },
+    {
+      "name": "pakchunk1037-WindowsClient.utoc",
+      "guid": "CA68A8E074420A27C79C7C0369593385"
+    },
+    {
+      "name": "pakchunk1039-WindowsClient.utoc",
+      "guid": "CFC8D5CD63C68F3A5B07146BF2FDC67F",
+      "key": "0x6D91772A10D248580220DF8BC2E8C787AB50F8656BF4AD9B5AE5D8AA916EC5E7"
+    },
+    {
+      "name": "pakchunk1040-WindowsClient.utoc",
+      "guid": "D0615FA0E2543A9554E7677108061E48",
+      "key": "0xBC85EE07874C2130C34539EE6C7A17B0AF308032E0507D7905F2E49D3F6FB7E6"
+    },
+    {
+      "name": "pakchunk1041-WindowsClient.utoc",
+      "guid": "DA3B6869A2B443C91D8916291B06687E",
+      "key": "0x57BE81986C90CD5DD926B588B4E9B09C96AC3F1B03429BC013E62ECD8BCAF4C1"
+    },
+    {
+      "name": "pakchunk1042-WindowsClient.utoc",
+      "guid": "DBCAA577BD017AC8CAB2FA6E6182E893"
+    },
+    {
+      "name": "pakchunk1043-WindowsClient.utoc",
+      "guid": "DE0E53620D4FFC3894BA7204493DA88F",
+      "key": "0xD782B13A83F1195FB6B13C6DFEE97DE5668C2D239E6C44DA3E18C7E22909335E"
+    },
+    {
+      "name": "pakchunk1044-WindowsClient.utoc",
+      "guid": "E4A66551AF04D830C3946D0A938D8F19",
+      "key": "0xD029A17CF56F5CFFE8F19C39237E98059C4BF92F6973E19CD6732BC04F6FC8E8"
+    },
+    {
+      "name": "pakchunk1045-WindowsClient.utoc",
+      "guid": "E9D1DFD0BD941B4C085CF6BE2FB851FC",
+      "key": "0x9A931EB01E70CE22AAEC95B2691EF5BECC4930914384E50FCD15035F632AEC2A"
+    },
+    {
+      "name": "pakchunk1046-WindowsClient.utoc",
+      "guid": "F6E74C7F28CB532DB5829615C48E35F8"
+    },
+    {
+      "name": "pakchunk1047-WindowsClient.utoc",
+      "guid": "F7CAC6C8DFE65969119D2CF3A17DB40D"
+    }
+  ]
 }
